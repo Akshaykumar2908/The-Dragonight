@@ -1,0 +1,23 @@
+{
+    "name": "dragonight",
+    "displayName": "Dragonight",
+    "description": "dragonight is a dark theme for visual studio code",
+    "publisher": "teamdragonight",
+	"license": "MIT",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "The Dragonight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dragonight-theme.json"
+            }
+        ]
+    }
+}
