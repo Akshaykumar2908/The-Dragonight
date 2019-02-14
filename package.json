@@ -3,8 +3,9 @@
     "displayName": "Dragonight",
     "description": "Dragonight is a dark theme for visual studio code",
     "publisher": "teamdragonight",
+    "icon": "icon.png",
 	"license": "MIT",
-    "version": "0.0.3",
+    "version": "0.0.6",
     "maintainers": [
         "Akshaykumar Prajapati <akshayprajapati256@gmail.com>"
     ],
