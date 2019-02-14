@@ -6,7 +6,7 @@ Dragonight is simple and elegant visual studio dark theme
 * **Akshaykumar Prajapati**
 
 ## Git Respository
-[MIT](https://choosealicense.com/licenses/mit/)
+[The Dragonight](https://gitlab.com/Akshaykumar2908/the-dragonight)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
